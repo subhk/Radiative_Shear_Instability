@@ -1,2 +1,2 @@
-BiGlobal stability analsysis of an anticyclonic vortex
+BiGlobal stability analysis of an anticyclonic vortex
 
